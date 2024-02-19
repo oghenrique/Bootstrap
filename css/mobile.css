@@ -1,0 +1,14 @@
+
+@media (max-width: 768px){
+    .dois{
+        height: 160vh;
+    }
+
+    .tres{
+        height: 40vh;
+    }
+
+    .tres img {
+        width: 100%;
+    }
+}
